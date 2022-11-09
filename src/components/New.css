@@ -1,0 +1,99 @@
+.mainNew{
+    margin: 30px;
+    margin-left: 300px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+.New{
+    margin: 30px;
+    text-decoration: none;
+    color: black;
+    
+ }
+ .new2{
+     margin-left: 400px;
+     position: relative;
+     bottom: 330px;
+     width: 62%;
+     
+ }
+ .new3{
+   margin: 110px;
+    margin-left: 400px;
+    margin-top: 30px;
+    position: relative;
+    bottom: 340px; 
+ }
+ .Toggle{
+    margin-left: 180px;
+    
+    position: absolute;
+    margin-top: -175px;
+ 
+ }
+ 
+ .Drop{
+    margin-left: 180px;
+    position: absolute;
+    margin-top: -50px;
+ }
+ 
+ .Toggle2{
+    margin-left: 180px;
+    position: absolute;
+    margin-top: -50px;
+ }
+ .Toggle3{
+    margin-left: 180px;
+    position: absolute;
+    margin-top: -50px;
+    
+ }
+ .Toggle4{
+    margin-left: 180px;
+     position: absolute;
+    margin-top: -50px;
+ }
+ .Toggle5{margin-left: 180px;
+   position: absolute;
+   margin-top: -50px;
+}
+ .Toggle6{
+    margin-left: 180px;
+    position: absolute;
+    margin-top: -50px;
+ }
+ .Toggle7{
+    margin-left: 180px;
+    position: absolute;
+    margin-top: -50px;
+ }
+ .Toggle8{
+    margin-left: 180px;
+    position: absolute;
+    margin-top: -50px;
+ }
+ .but{
+    position: relative;
+    top: -20px;
+    left: 87%;
+    display: flex;
+    }
+     @media screen and (min-width:480) {
+        .body{
+           height: none;
+           width: none;
+           margin: none;
+           padding: none;
+        }
+    }
+
+    @media screen and (max-width:1200) {
+      .body{
+         height: none;
+         width: none;
+         margin: none;
+         padding: none;
+      } 
+   }
